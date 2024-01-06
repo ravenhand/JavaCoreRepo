@@ -60,5 +60,9 @@ public class Main {
         for (Map.Entry mapElement: bookingMap.entrySet()){
             System.out.println("Key: " + mapElement.getKey() + " Value: " + mapElement.getValue());
         }
+        System.out.println("----ARRAY PRINT----");
+        for (int i = 0; i < bookingArray.length; i++) {
+            System.out.println(bookingArray[i]);
+        }
     }
 }
