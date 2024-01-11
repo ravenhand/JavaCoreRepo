@@ -10,7 +10,7 @@ public class ClassicDonut {
     public void outOfStock(){
         System.out.println("The donut can out of stock.");
     }
-    public void tasteExperienc(){
+    public void tasteExperience(){
         System.out.println("The donut has a rich taste experience.");
     }
     public void wakesUp(){

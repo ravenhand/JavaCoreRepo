@@ -6,6 +6,6 @@ public class Main {
         myChocoDonut.givesFat();
 
         JamDonut myJamDonut = new JamDonut();
-        myJamDonut.tasteExperienc();
+        myJamDonut.tasteExperience();
     }
 }
